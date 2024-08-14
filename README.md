@@ -25,7 +25,7 @@
 
 ## Project #6 - Films Application
 
-This is my next project created using React.js. The page acts as a page representing a Application which allow to add/remove/edit favourite films and we can add assesment of films.
+The page acts as a page representing a Application which allow to add/remove/edit favourite films and we can add assesment of films.
 
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
@@ -37,6 +37,8 @@ This is my next project created using React.js. The page acts as a page represen
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
 https://project06-oszymorek.netlify.app/
+
+## Repository Structure
 
 ```sh
 └── films_app/
