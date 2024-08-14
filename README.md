@@ -32,7 +32,7 @@ This is my next project created using React.js. The page acts as a page represen
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component. In this project I created reuseable component `StarRating.js`</br>
 <strong>Data:</strong> Data is passed in via props (prop drilling).</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
-<strong>Hooks:</strong> Used the `useState` | `useEffect` hooks to update the page state.</br>
+<strong>Hooks:</strong> Used the `useState` | `useEffect` hooks.</br>
 <strong>Functions:</strong> `Search Film` | `Add Film to List` | `Edit Film` | `Remove Film` | `Select Film` | `Collapse Films`  </br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
